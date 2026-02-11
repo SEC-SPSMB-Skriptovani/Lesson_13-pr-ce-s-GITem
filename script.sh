@@ -5,4 +5,5 @@ function foo() {
 }
 echo "Začátek"
 foo
-echo "Konec"
+#echo "Konec"
+echo "End"
