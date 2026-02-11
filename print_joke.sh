@@ -1,0 +1,7 @@
+#!/bin/bash
+
+function print_joke () {
+    echo "HAHHAHAHAHAHAAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAAHAH"
+}
+
+print_joke
